@@ -30,7 +30,7 @@ Example: 5x2_high_3.txt corresponds to 5 jobs, 2 machines, high energy limit, an
 
 
 
-## 2. FILE FORMAT
+## 2. INSTANCE FILE FORMAT
 Instances in both sets are structured similarly. Each instance file is organized as follows:
 - int number of jobs
 - int number of machines
